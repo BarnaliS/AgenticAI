@@ -87,6 +87,7 @@ for symbol in companies:                          # Loop through all the compani
 # Convert to DataFrame
 df = pd.DataFrame(metrics_list).T
 
+
 # Converting large numbers to billions for readability by divinding the whole column by 1e9
 df["Market Cap"] = df["Market Cap"]/ 1e9
 df["Total Revenue"] = df["Total Revenue"] / 1e9
