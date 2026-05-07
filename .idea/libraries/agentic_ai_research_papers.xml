@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="agentic_ai_research_papers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week6/agentic_ai_research_papers.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
